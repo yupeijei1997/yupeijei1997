@@ -1,6 +1,13 @@
-## Hi, I'm peijieyu
+## Hi, I'm peijieyu, currently working on Agent research at Tencent Hunyuan
 
 ### 🎓 Bio [USTC](https://www.ustc.edu.cn/)(master) ➡️ [Tencent](https://www.tencent.com/en-us/about.html)(LLM Algorithm Researcher)
+
+### Something Interesting 🚀
+
+| Project | Introduction |
+| ---- | ---- |
+| [MMTB](https://github.com/yupeijei1997/MMTB) | Multi-Mission Tool Bench |
+
 
 <!--
 **yupeijei1997/yupeijei1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
