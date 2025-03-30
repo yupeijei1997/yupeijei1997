@@ -2,7 +2,7 @@
 
 ## Hi, I'm peijieyu, currently working on Agent research at Tencent Hunyuan
 
-### 🎓 Bio [USTC](https://www.ustc.edu.cn/)(master) ➡️ [Tencent](https://www.tencent.com/en-us/about.html)(LLM Algorithm Researcher)
+### 🎓 Bio [USTC](https://www.ustc.edu.cn/)(Master) ➡️ [Tencent](https://www.tencent.com/en-us/about.html)(LLM Algorithm Researcher)
 
 ### Something Interesting 🚀
 
