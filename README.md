@@ -1,3 +1,5 @@
+[![google scholar](google_scholar.png)](https://scholar.google.com.hk/citations?user=oPQZpwkAAAAJ&hl=zh-CN) [![zhihu](zhihu.png)]([https://scholar.google.com.hk/citations?user=oPQZpwkAAAAJ&hl=zh-CN](https://www.zhihu.com/people/yu-pei-jie-85))
+
 ## Hi, I'm peijieyu, currently working on Agent research at Tencent Hunyuan
 
 ### 🎓 Bio [USTC](https://www.ustc.edu.cn/)(master) ➡️ [Tencent](https://www.tencent.com/en-us/about.html)(LLM Algorithm Researcher)
