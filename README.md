@@ -1,4 +1,5 @@
-<a href="https://scholar.google.com.hk/citations?user=oPQZpwkAAAAJ&hl=zh-CN" target="_blank"><img src="google_scholar.png" alt="图片描述" width="100" height="50"></a> <a href="[链接_url_here](https://scholar.google.com.hk/citations?user=oPQZpwkAAAAJ&hl=zh-CN](https://www.zhihu.com/people/yu-pei-jie-85)" target="_blank"><img src="zhihu.png" alt="图片描述" width="100" height="50"></a>
+<a href="https://scholar.google.com.hk/citations?user=oPQZpwkAAAAJ&hl=zh-CN" target="_blank"><img src="google_scholar.png" alt="Google Scholar" width="100" height="25"></a>
+<a href="https://www.zhihu.com/people/yu-pei-jie-85" target="_blank"><img src="zhihu.png" alt="知乎" width="100" height="25"></a>
 
 ## Hi, I'm peijieyu, currently working on Agent research at Tencent Hunyuan
 
