@@ -1,11 +1,4 @@
-<a href="https://scholar.google.com.hk/citations?user=oPQZpwkAAAAJ&hl=zh-CN" target="_blank">
-    <img src="google_scholar.png" alt="图片描述" width="50" height="50">
-</a>
-<a href="[链接_url_here](https://scholar.google.com.hk/citations?user=oPQZpwkAAAAJ&hl=zh-CN](https://www.zhihu.com/people/yu-pei-jie-85)" target="_blank">
-    <img src="zhihu.png" alt="图片描述" width="50" height="50">
-</a>
-
-[![google scholar](google_scholar.png){width=50 height=50}](https://scholar.google.com.hk/citations?user=oPQZpwkAAAAJ&hl=zh-CN) [![zhihu](zhihu.png){width=50 height=50}]([https://scholar.google.com.hk/citations?user=oPQZpwkAAAAJ&hl=zh-CN](https://www.zhihu.com/people/yu-pei-jie-85))
+<a href="https://scholar.google.com.hk/citations?user=oPQZpwkAAAAJ&hl=zh-CN" target="_blank"><img src="google_scholar.png" alt="图片描述" width="100" height="50"></a> <a href="[链接_url_here](https://scholar.google.com.hk/citations?user=oPQZpwkAAAAJ&hl=zh-CN](https://www.zhihu.com/people/yu-pei-jie-85)" target="_blank"><img src="zhihu.png" alt="图片描述" width="100" height="50"></a>
 
 ## Hi, I'm peijieyu, currently working on Agent research at Tencent Hunyuan
 
