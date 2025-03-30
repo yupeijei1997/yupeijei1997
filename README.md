@@ -1,7 +1,7 @@
+## Hi, I'm peijieyu, currently working on Agent research at Tencent Hunyuan
+
 <a href="https://scholar.google.com.hk/citations?user=oPQZpwkAAAAJ&hl=zh-CN" target="_blank"><img src="google_scholar.png" alt="Google Scholar" width="80" height="30"></a>
 <a href="https://www.zhihu.com/people/yu-pei-jie-85" target="_blank"><img src="zhihu.png" alt="知乎" width="80" height="30"></a>
-
-## Hi, I'm peijieyu, currently working on Agent research at Tencent Hunyuan
 
 ### 🎓 Bio 
 
