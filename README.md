@@ -16,7 +16,7 @@
 ### Awards
 
 - Outstanding graduates, USTC
-- Our team achieved the first place in China and the second place in the world in the Agent category in the [March 2025 SuperClue Chinese Large Model Benchmark Evaluation](https://mp.weixin.qq.com/s/Nv0YozaCX4cmeiroyq7YEg), outperforming DeepSeek, Qianwen, and Doubao by more than 5 points, 10 points, and 15 points, respectively.
+- First place in China and the second place in the world in the Agent category in the [March 2025 SuperClue Chinese Large Model Benchmark Evaluation](https://mp.weixin.qq.com/s/Nv0YozaCX4cmeiroyq7YEg), outperforming DeepSeek, Qianwen, and Doubao by more than 5 points, 10 points, and 15 points, respectively.
 
 
 <!--
