@@ -11,7 +11,7 @@
 
 | Project | Introduction |
 | ---- | ---- |
-| [MMTB](https://github.com/yupeijei1997/C3-Bench) | C3-Bench |
+| [C3-Bench](https://github.com/yupeijei1997/C3-Bench) | C3-Bench |
 
 ### 🏅️ Awards
 
